@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=250&section=header&text=Atharv%20Surywanshi&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=250&section=header&text=Atharv%20Surywanshi&fontSize=80&fontAlignY=35&animation=glitch&fontColor=ffffff" width="100%"/>
 
 <div align="center">
   <h2>Hi 👋, I'm Atharv Surywanshi</h2>
@@ -11,14 +11,19 @@
   </a>
 
   <br>
-
+  
   <!-- Profile Views Badge -->
   <img src="https://komarev.com/ghpvc/?username=Atharvsurya&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+
+  <a href="https://atharvsurywanshi.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
+</a>
+
 </div>
 
 ---
 
-## 👨‍💻 About Me (atharvsurywanshi.vercel.app)
+## 👨‍💻 About Me 
 
 - 🎓 **2nd Year B.E. Computer Engineering Student** at Bharati Vidyapeeth College of Engineering, Navi Mumbai (9.43 CGPA)
 - 💻 Passionate about **Full-Stack Java Development**, **ML Enthusiast**, and **Competitive Programming**
@@ -82,7 +87,7 @@ A comprehensive full-stack platform for managing IT support requests.
 ## 🧩 LeetCode Analytics
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Atharv_Surywanshi?theme=tokyonight&font=Segoe%20UI&ext=activity" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Atharv_Surywanshi?theme=dark&font=Segoe%20UI&ext=activity" alt="LeetCode Stats" />
 </div>
 <br>
 
@@ -91,17 +96,14 @@ A comprehensive full-stack platform for managing IT support requests.
 ## 🏅 Badges & Validations
 
 <div align="left">
-  <!-- WorldQuant BRAIN Badge -->
-  <img src="https://img.shields.io/badge/WorldQuant_BRAIN-Alpha_Researcher-000000?style=for-the-badge&logo=quantconnect&logoColor=white" alt="WorldQuant BRAIN" />
-  
+ <!-- LeetCode Badge -->
+  <a href="https://leetcode.com/Atharv_Surywanshi" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+  </a>
+
   <!-- HackerRank Badge -->
   <a href="https://www.hackerrank.com/atharvsurywansh1" target="_blank">
     <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
-  </a>
-
-  <!-- LeetCode Badge -->
-  <a href="https://leetcode.com/Atharv_Surywanshi" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a>
 </div>
 
@@ -117,7 +119,7 @@ A comprehensive full-stack platform for managing IT support requests.
 
 ## 🌐 Connect With Me
 
-<div align="left">
+<div align="center">
   <a href="https://linkedin.com/in/atharv-surywanshi-548a433a1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -134,5 +136,12 @@ A comprehensive full-stack platform for managing IT support requests.
   <h3>⭐ Thanks for visiting my profile! ⭐</h3>
 </div>
 
-<!-- Footer Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=100&section=footer" width="100%"/>
+<!-- Footer Block -->
+<div align="center">
+  <p><i>Building scalable applications and transparent AI systems.</i></p>
+  <a href="https://atharvsurywanshi.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
+  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=100&section=footer" width="100%"/>
+  <br><br>
+</div>
