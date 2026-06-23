@@ -7,7 +7,7 @@
 
   <!-- Dynamic Typing Effect -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=26&pause=1000&color=00A8E8&center=true&vCenter=true&width=500&lines=Spring+Boot+Developer;Explainable+AI+(XAI)+Explorer;Competitive+Programmer;Full-Stack+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=26&pause=1000&color=00A8E8&center=true&vCenter=true&width=500&lines=Computer+Engineer;Java+Spring+Boot+Developer;ML+Enthusiast;Competitive+Programmer;Full-Stack+Engineer" alt="Typing SVG" />
   </a>
 
   <br>
@@ -18,12 +18,12 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me (atharvsurywanshi.vercel.app)
 
-- 🎓 **2nd Year B.E. Computer Engineering Student** at Bharati Vidyapeeth College of Engineering, Navi Mumbai (9.55 CGPA)
-- 💻 Passionate about **Full-Stack Development**, **Explainable AI (XAI)**, and **Quantitative Finance**
-- 🌱 **Currently Exploring:** WorldQuant BRAIN platform, Alpha signal development, and Flutter
-- 📚 **Practicing:** Competitive Programming (LeetCode & HackerRank), Algorithmic Logic
+- 🎓 **2nd Year B.E. Computer Engineering Student** at Bharati Vidyapeeth College of Engineering, Navi Mumbai (9.43 CGPA)
+- 💻 Passionate about **Full-Stack Java Development**, **ML Enthusiast**, and **Competitive Programming**
+- 🌱 **Currently Exploring:** Flutter and ML models
+- 📚 **Practicing:** Competitive Programming (LeetCode)
 - 🎯 **Goal:** Build transparent, mathematically interpretable machine learning systems and scalable production-ready web applications.
 - ⚡ **Leadership:** Organized the "Design Arena" workshop focused on Design Thinking for National Startup Day.
 
@@ -40,8 +40,8 @@
 **Database**<br>
 <img src="https://skillicons.dev/icons?i=mysql" /><br><br>
 
-**Tools & Mobile**<br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,flutter" /><br>
+**Tools**<br>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,flutter" /><br>
 
 ---
 
@@ -53,13 +53,13 @@ A skill-sharing platform connecting mentees with mentors for learning traditiona
 - **Features:** Custom REST Controllers, Relational Database Schema Management, Full-Stack integration.
 
 ### 🛡️ Phishing Website Detection System
-An Explainable AI (XAI) security project that prioritizes model transparency for detecting malicious URLs.
+An Explainable security project that prioritizes model transparency for detecting malicious URLs.
 - **Tech Stack:** Python, Random Forest, SVM, Logistic Regression
 - **Features:** Feature extraction using lexical analysis on a 95k-row dataset, high-accuracy classification focusing on mathematical interpretability.
 
 ### 🎫 Internal IT Support Ticketing System
 A comprehensive full-stack platform for managing IT support requests.
-- **Tech Stack:** Java, Spring Boot, Relational Database
+- **Tech Stack:** Java, Spring Boot, Relational Database (MySQL)
 - **Features:** Role-Based Access Control (RBAC), Relational data management with Spring Boot entities, Responsive UI.
 
 ---
@@ -79,11 +79,54 @@ A comprehensive full-stack platform for managing IT support requests.
 
 ---
 
+## 🧩 LeetCode Analytics
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Atharv_Surywanshi?theme=tokyonight&font=Segoe%20UI&ext=activity" alt="LeetCode Stats" />
+</div>
+<br>
+
+---
+
+## 🏅 Badges & Validations
+
+<div align="left">
+  <!-- WorldQuant BRAIN Badge -->
+  <img src="https://img.shields.io/badge/WorldQuant_BRAIN-Alpha_Researcher-000000?style=for-the-badge&logo=quantconnect&logoColor=white" alt="WorldQuant BRAIN" />
+  
+  <!-- HackerRank Badge -->
+  <a href="https://www.hackerrank.com/atharvsurywansh1" target="_blank">
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
+  </a>
+
+  <!-- LeetCode Badge -->
+  <a href="https://leetcode.com/Atharv_Surywanshi" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+  </a>
+</div>
+
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Atharvsurya/Atharvsurya/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="left">
+  <a href="https://linkedin.com/in/atharv-surywanshi-548a433a1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:atharvsurywanshi1457@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+---
 
 <br>
 
