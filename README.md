@@ -82,7 +82,7 @@ A comprehensive full-stack platform for managing IT support requests.
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Atharvsurya/Atharvsurya/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <br>
