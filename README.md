@@ -14,11 +14,6 @@
   
   <!-- Profile Views Badge -->
   <img src="https://komarev.com/ghpvc/?username=Atharvsurya&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-
-  <a href="https://atharvsurywanshi.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
-</a>
-
 </div>
 
 ---
@@ -56,11 +51,29 @@
 A skill-sharing platform connecting mentees with mentors for learning traditional and cultural skills.
 - **Tech Stack:** Java, Spring Boot, TiDB, HTML/CSS/JS
 - **Features:** Custom REST Controllers, Relational Database Schema Management, Full-Stack integration.
+- **Links:**
+    
+  <a href="https://kaushalya.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Live Demo" /></a>
+  &nbsp;
+  <a href="https://github.com/Atharvsurya/Kaushalya" target="_blank"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
 
 ### 🛡️ Phishing Website Detection System
 An Explainable security project that prioritizes model transparency for detecting malicious URLs.
 - **Tech Stack:** Python, Random Forest, SVM, Logistic Regression
 - **Features:** Feature extraction using lexical analysis on a 95k-row dataset, high-accuracy classification focusing on mathematical interpretability.
+- **Links:**
+  
+  <a href="https://phishguardlink.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Live Demo" /></a>
+  &nbsp;
+  <a href="https://github.com/Atharvsurya/PhishingWebsiteDetection" target="_blank"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
+
+### 💬 Mini-Reddit
+A lightweight forum application mimicking Reddit's core functionality.
+- **Tech Stack:** Java, Spring Boot, MySQL, HTML/CSS
+- **Features:** User authentication, post creation, upvote/downvote system, nested comment threads
+- **Links:**
+  
+  <a href="https://github.com/Atharvsurya/Mini-Reddit" target="_blank"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
 
 ### 🎫 Internal IT Support Ticketing System
 A comprehensive full-stack platform for managing IT support requests.
