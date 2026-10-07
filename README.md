@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me 
 
-- 🎓 **2nd Year B.E. Computer Engineering Student** at Bharati Vidyapeeth College of Engineering, Navi Mumbai (9.43 CGPA)
+- 🎓 **B.E. Computer Engineering Student** at Bharati Vidyapeeth College of Engineering, Navi Mumbai (9.43 CGPA)
 - 💻 Passionate about **Full-Stack Java Development**, **ML Enthusiast**, and **Competitive Programming**
 - 🌱 **Currently Exploring:** Flutter and ML models
 - 📚 **Practicing:** Competitive Programming (LeetCode)
